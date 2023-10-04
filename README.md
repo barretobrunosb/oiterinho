@@ -1,7 +1,7 @@
-# [_WebMap_ do sítio arqueológico Oiterinho, São Mateus/ES.](https://barretobrunosb.github.io/oiterinho/)
+# [_WebMap_ do sítio arqueológico Oiterinho, São Mateus/ES](https://barretobrunosb.github.io/oiterinho/)
 
 
-[![DOI](https://zenodo.org/badge/699088606.svg)](https://zenodo.org/badge/latestdoi/699088606) Clique [aqui](https://barretobrunosb.github.io/oiterinho/) para acessar o _WebMap_.
+[![DOI](https://zenodo.org/badge/626105463.svg)](https://zenodo.org/badge/latestdoi/626105463) Clique [aqui](https://barretobrunosb.github.io/oiterinho/) para acessar o _WebMap_.
 
 
 **Bruno de Souza Barreto**   [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9166-3875)

@@ -19,4 +19,6 @@ Este repositório é referente ao **WebMap do sítio arqueológico Oiterinho, S�
 
 [BARRETO, Bruno; PEREIRA, Daiane. **Onde estão as quadrículas? A decapagem mecânica e suas contribuições para o estudo de unidades domésticas no contexto da arqueologia preventiva**. Revista de Arqueologia, [S. l.], v. 36, n. 1, p. 199–224, 2023. DOI: 10.24885/sab.v36i1.1015.](https://revista.sabnet.org/ojs/index.php/sab/article/view/1015)
 
+### **Licença:**
 
+[Web Map do sítio arqueológico Oiterinho, São Mateus/ES](https://github.com/barretobrunosb/oiterinho) by [Bruno Barreto & Daiane Pereira](https://github.com/barretobrunosb) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)

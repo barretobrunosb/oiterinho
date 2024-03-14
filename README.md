@@ -1,5 +1,6 @@
 # [_WebMap_ do sítio arqueológico Oiterinho, São Mateus/ES](https://barretobrunosb.github.io/oiterinho/)
 
+**Versão 2.1*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10790334.svg)](https://doi.org/10.5281/zenodo.10790334) Clique [aqui](https://barretobrunosb.github.io/oiterinho/) para acessar o _WebMap_.
 

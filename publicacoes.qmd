@@ -1,0 +1,28 @@
+---
+title: "Publicações e Prêmios"
+description: |
+  Publicações e prêmios realacionados com o sítio arqueológico Oiterinho 
+---
+
+<style>
+p {text-align: justify;}
+</style>
+
+## Publicações
+
+### 2023
+
+
+* [BARRETO, Bruno & PEREIRA, Daiane. **Onde estão as quadrículas? A decapagem mecânica e suas contribuições para o estudo de unidades domésticas no contexto da arqueologia preventiva**. Revista de Arqueologia, v. 36, n. 1, 2023](https://revista.sabnet.org/ojs/index.php/sab/article/view/1015)
+
+
+## Prêmios
+
+### 2019
+
+
+* **Prêmio Luiz de Castro Faria**. 7ª Edição. Categoria: Melhor artigo científico. Concedido pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), 2019.
+
+
+
+

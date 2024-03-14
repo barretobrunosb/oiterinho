@@ -1,0 +1,23 @@
+---
+title: "Web Map do sítio arqueologico Oiterinho, São Mateus/ES"
+format: html
+---
+
+<style>
+p {text-align: justify;}
+</style>
+
+Esta página apresenta o Web Map do sítio arqueológico Oiterinho. Uma vez que o sítio foi escavado em áreas muito amplas, com o uso do método de Decapagem Mecânica, uma grande quantidade de estruturas arqueológicas foi registrada. Para isso, foi necessário elaborar um Mapa digital em plataforma Web, a fim de possibilitar a visualização e consulta das áreas e estruturas escavadas. Para ter instruções mais detalhadas de como fazer consultas no Web Map, [clique aqui](uso.html).
+
+Para saber em detalhes as funcionalidades do mapa e como realizar consultas, leia as [Instruções de Uso.](uso.html)
+
+O mapa digital (Web Map) se encontra disponível abaixo:
+
+[**Clique aqui para acessar o Web Map em tela inteira**](map.html).
+
+```{=html}
+
+  <iframe class="responsive-iframe" src="map.html" width = "100%" style="height: 100vh;"><iframe>
+
+  
+```

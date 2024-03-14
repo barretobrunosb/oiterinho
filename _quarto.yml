@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Web Map do sítio arqueológico oiterinho, São Mateus/ES"
+  site-url: https://barretobrunosb.github.io/oiterinho
+  favicon: images/fav.png  
+  
+  page-footer: 
+    right: ""
+    left: "&copy; 2024 By Bruno Barreto & Daiane Pereira - licensed under Attribution-NonCommercial-ShareAlike 4.0 International"
+ 
+  navbar:
+    logo: images/fav.png
+    href: 
+    right:
+    - text: "Início"
+      href: index.html
+    - text: "Web Map"
+      href: webmap.html
+    - text: "Sobre o Oiterinho"
+      href: sobre.html
+    - text: "Instruções de Uso"
+      href: uso.html
+    - text: "Unidades de Escavação"
+      href: unidades.html
+    - text: "Publicações"
+      href: publicacoes.html
+    - icon: github
+      href: https://github.com/barretobrunosb/oiterinho
+
+format:
+  html:
+    theme: [sandstone, custom.scss]
+    css: styles.css
+    toc: true
+    toc-title: Menu
+    toc-location: left

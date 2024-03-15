@@ -1,4 +1,4 @@
-# [_WebMap_ do sítio arqueológico Oiterinho, São Mateus/ES](https://barretobrunosb.github.io/oiterinho/)
+# [_Web Map_ do sítio arqueológico Oiterinho, São Mateus/ES](https://barretobrunosb.github.io/oiterinho/)
 
 **Versão 2.1**
 
